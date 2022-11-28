@@ -1,0 +1,1 @@
+type nul > index.js <!-- Create empty index.js file in current Directory -->
